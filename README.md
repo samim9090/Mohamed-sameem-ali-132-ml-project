@@ -1,0 +1,2 @@
+# Mohamed-sameem-ali-132-ml-project
+MACHINE LEARNING PROJECT:- PLANT DISEASE DETECTION
